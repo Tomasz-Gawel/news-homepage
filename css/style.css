@@ -14,8 +14,7 @@ border: none;
 display: grid;
 grid-template-columns: 20% 20% 20% 10%;
 grid-template-rows:  10% 40% 20% 30%;
-grid-gap: 20px;
-padding: 10px;
+grid-gap: 10px;
 justify-content: center;
 }
 
